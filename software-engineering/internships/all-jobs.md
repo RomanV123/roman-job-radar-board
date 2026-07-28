@@ -1,64 +1,30 @@
 # Software Engineering Internships — All Jobs Found
 
-Every active software engineering internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing all 82.
+Every active software engineering internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing all 48.
 
 | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|
-| Intern: Software Engineering Jasper R&D | Cadence Design Systems | BELO HORIZONTE | onsite | 2026-07-25 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530) |
 | 2026 Early Career Software Engineer | Anduril | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States Atlanta, Georgia, United States | onsite | 2026-07-24 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) |
 | 2027 Software Engineer Intern | Anduril | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States Atlanta, Georgia, United States | onsite | 2026-07-24 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | Site Reliability Engineer Federal- SkillBridge Intern | Zscaler | Remote - Virginia, USA Remote - Virginia, USA | remote | 2026-07-24 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5046050007) |
 | Software Engineer Intern - Enterprise Systems (Fall 2026) | Astranis | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4699071006) |
 | Site Reliability Engineer-SkillBridge Intern | Zscaler | Remote - USA Remote - California, USA | remote | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5045817007) |
-| Internship: Software Developer NFC/UWB System Verification (m/f/d) | NXP Semiconductors | Gratkorn | onsite | 2026-07-23 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Software-Developer-NFC-UWB-System-Verification--m-f-d-_R-10064609) |
-| Backend Software Engineer | Axon Enterprise | Ho Chi Minh City, Ho Chi Minh City, Vietnam Ho Chi Minh City, Ho Chi Minh City, Vietnam | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7806690003) |
-| Software Engineer | Axon Enterprise | Ho Chi Minh City, Ho Chi Minh City, Vietnam Ho Chi Minh City, Ho Chi Minh City, Vietnam | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7806691003) |
-| Software Engineer I | Axon Enterprise | Ho Chi Minh City, Ho Chi Minh City, Vietnam Ho Chi Minh City, Ho Chi Minh City, Vietnam | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7694598003) |
-| Software Engineer I, Backend (Collections) | Affirm | Remote Poland | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7807508003) |
-| Software Engineer I, Backend (Collections) | Affirm | Remote Spain | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7807506003) |
-| Software Engineering Intern (3-12 Months) | Ciena | UK- Edinburgh - 19A Canning St | onsite | 2026-07-22 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) |
-| Routing/IP Software Developer Intern (4-8 Months) | Ciena | Ottawa | onsite | 2026-07-22 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326) |
-| Software Engineer Intern | Motorola Solutions | Penang, Malaysia | onsite | 2026-07-22 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R66283) |
-| Software Engineer and Tools Developer Intern (Fall 2026) | Ciena | Ottawa | onsite | 2026-07-21 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) |
 | Embedded Software Developer, Network/Payload Software Intern (Fall 2026) | Astranis | San Francisco San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4601135006) |
 | Software Engineer- Backend Intern (Fall 2026) | Astranis | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
-| 2026 Australia Software Engineering Internship | The Trade Desk | Sydney Sydney | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5033765007) |
 | 2027 North America Software Engineering Internship | The Trade Desk | Bellevue; Boulder; Denver; Irvine; New York; Seattle Bellevue | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
-| Software Engineer Intern | OPSWAT | Ho Chi Minh City, Ho Chi Minh City, Vietnam Ho Chi Minh City, Ho Chi Minh City, Vietnam | onsite | 2026-07-20 | [Apply](https://www.opswat.com/jobs/4623189005?gh_jid=4623189005) |
-| Software Engineering Intern Summer 2027 | Autodesk | Norway - Oslo | onsite | 2026-07-18 | [Apply](https://autodesk.wd1.myworkdayjobs.com/EXT/job/Norway---Oslo/Software-Engineering-Intern-Summer-2027_26WD100046) |
-| Embedded Software Engineer, Tech Lead | Astera Labs | Remote, Canada Canada | remote | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/asteralabs/jobs/4713668005) |
-| Intern - Software Engineering | Sysco | Sysco LABS  -  Sri Lanka | onsite | 2026-07-16 | [Apply](https://sysco.wd5.myworkdayjobs.com/SyscoCareers/job/Sysco-LABS-----Sri-Lanka/Intern---Software-Engineering_R257904) |
 | Software Engineer I, Mission Software | VAST Data | Long Beach, California, United States Long Beach, California, United States | onsite | 2026-07-15 | [Apply](https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006) |
-| Software Engineer - Automation | Commvault | Seoul, South Korea Korea | hybrid | 2026-07-15 | [Apply](https://job-boards.greenhouse.io/commvault/jobs/5349236008) |
-| Intern Software Developer (C/C++) | Motorola Solutions | Krakow, Poland | onsite | 2026-07-15 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R65919) |
 | Software Engineer Intern (Fall 2026) - Austin, TX | Cloudflare | In-Office Austin, TX, United States | remote | 2026-07-14 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | Senior Software Engineer - DevX | Reddit | Remote - United States San Francisco, CA, United States | remote | 2026-07-10 | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7950520) |
-| AI Software Engineering Intern | Intel | Poland, Gdansk | onsite | 2026-07-09 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) |
-| Software Engineering Intern | Trimble Inc. | 2 Locations | onsite | 2026-07-08 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Lithuania---Vilnius/Software-Engineering-Intern_R56614) |
 | Software Engineer I - Device Control | SimpliSafe | Boston, MA Boston, MA, United States | hybrid | 2026-07-07 | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8049515) |
 | Robotics Systems Engineer | Pronto AI | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-07 | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8581017002) |
 | Senior Robotics Systems Engineer | Pronto AI | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-07 | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8622961002) |
-| Intern Software Developer (Java) | Motorola Solutions | Krakow, Poland | onsite | 2026-07-03 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R66205) |
-| Intern Linux Platform Engineer | Motorola Solutions | Krakow, Poland | onsite | 2026-07-03 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Linux-Platform-Engineer_R66050-1) |
-| Agentic AI Software Engineer Intern | OPSWAT | Ho Chi Minh City, Ho Chi Minh City, Vietnam Ho Chi Minh City, Ho Chi Minh City, Vietnam | onsite | 2026-07-02 | [Apply](https://www.opswat.com/jobs/4709694005?gh_jid=4709694005) |
 | Forward Deployed Software Engineer, Internship - Intel | Palantir | Washington, D.C. | onsite | 2026-07-01 | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply) |
 | Forward Deployed Software Engineer, Internship - Commercial | Palantir | Chicago, IL | onsite | 2026-06-30 | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply) |
 | Senior Systems Engineer | Relativity Space | Long Beach, California Long Beach, California, United States | onsite | 2026-06-30 | [Apply](https://boards.greenhouse.io/relativity/jobs/8542002002?gh_jid=8542002002) |
-| Software Developer Intern | OPSWAT | Timișoara, Timiș, Romania Timișoara, Timiș, Romania | onsite | 2026-06-29 | [Apply](https://www.opswat.com/jobs/4625141005?gh_jid=4625141005) |
 | Intern-Software Engineering | Cadence Design Systems | HOME MI | onsite | 2026-06-27 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) |
-| software engineering intern | Cadence Design Systems | BEIJING | onsite | 2026-06-27 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BEIJING/software-engineering-intern_R52210) |
-| Software Engineering Intern | Cadence Design Systems | PITTSBURGH 03 | onsite | 2026-06-27 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334) |
 | Intern - Software Engineer | Palo Alto Networks | Office - USA - CA - Headquarters | onsite | 2026-06-27 | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570) |
-| Embedded Software Engineer – Intern | Ciena | Ottawa | onsite | 2026-06-27 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) |
-| Software Engineer Intern | Marvell Technology | Madrid | onsite | 2026-06-27 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2502346) |
 | R&D Intern - Wireless Systems Engineer - 2026 | Motorola Solutions | Los Angeles, CA | onsite | 2026-06-27 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
-| 2026 Intern - MPU Systems Engineer Intern | NXP Semiconductors | Tianjin (Weiwu) | onsite | 2026-06-27 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Tianjin-Weiwu/XMLNAME-2026-Intern---MPU-Systems-Engineer-Intern_R-10063392) |
-| Intern - Site Reliability Engineering | Sysco | Sysco LABS  -  Sri Lanka | onsite | 2026-06-27 | [Apply](https://sysco.wd5.myworkdayjobs.com/SyscoCareers/job/Sysco-LABS-----Sri-Lanka/Intern---Site-Reliability-Engineering_R226398) |
-| Intern Software Developer, Stagiaire en Développement Logiciel | Autodesk | Quebec, CAN - Remote | remote | 2026-06-27 | [Apply](https://autodesk.wd1.myworkdayjobs.com/EXT/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) |
-| Web Application Developer Intern | NXP Semiconductors | Sibiu | onsite | 2026-06-27 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Sibiu/Web-Application-Developer_R-10062196) |
 | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Palantir | Chicago, IL | onsite | 2026-06-24 | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply) |
-| Software Engineer Intern - Zurich (2026) | Snowflake | CH-Zurich-Observe | onsite | 2026-05-12 | [Apply](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b/application) |
-| Software Engineer Intern (Fall / Winter 2026) | Cohere | Canada | remote | 2026-05-01 | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) |
 | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | Palantir | Washington, D.C. | onsite | 2026-04-23 | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply) |
 | Software Engineer Intern (Fall 2026) | Notion | San Francisco, California | hybrid | 2026-04-06 | [Apply](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90/application) |
 | Software Engineer (New Grad Program) | Sigma Computing | San Francisco, CA and New York City, NY San Francisco, California, United States | onsite | 2026-04-06 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003) |
