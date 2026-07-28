@@ -1,6 +1,6 @@
 # Cybersecurity Internships — All Jobs Found
 
-Every active cybersecurity internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing up to 300 of the total found.
+Every active cybersecurity internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing all 14.
 
 | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|

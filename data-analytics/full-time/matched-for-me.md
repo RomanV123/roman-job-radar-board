@@ -1,6 +1,6 @@
 # Data & Analytics Full-Time — Matched for Roman
 
-Jobs scored at or above 60 against Roman's resume, highest score first. Showing up to 150.
+Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 84.
 
 | Score | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|---|

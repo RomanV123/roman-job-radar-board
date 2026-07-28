@@ -1,6 +1,6 @@
 # Data & Analytics Internships — All Jobs Found
 
-Every active data & analytics internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing up to 300 of the total found.
+Every active data & analytics internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing all 8.
 
 | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|

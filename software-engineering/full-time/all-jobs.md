@@ -1,6 +1,6 @@
 # Software Engineering Full-Time — All Jobs Found
 
-Every active software engineering full-time posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing up to 300 of the total found.
+Every active software engineering full-time posting the pipeline has found, unfiltered by resume fit, most recently posted first. **6559 total found** — showing the 300 most recently posted (the dashboard in the main app always has the full list).
 
 | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|
