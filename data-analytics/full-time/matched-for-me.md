@@ -1,6 +1,6 @@
 # Data & Analytics Full-Time — Matched for Roman
 
-Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 108.
+Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 111.
 
 | Score | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -15,7 +15,7 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 81 | Software Engineer, Data Engineering, LOKI | Anduril | Santa Ana, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5194568007?gh_jid=5194568007) |
 | 81 | Data Analyst | Everlaw | Oakland, California, United States Oakland, California, United States | remote | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/everlaw/jobs/4679337006) |
 | 81 | Analytics Engineer I | Oscar Health | New York, New York, United States New York, New York, United States | hybrid | 2026-07-28 | [Apply](http://www.hioscar.com/careers/7914958?gh_jid=7914958) |
-| 80 | Software Engineer, Data Engineering | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
+| 80 | Software Engineer, Data Engineering | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
 | 79 | Data Engineer | Sigma Computing | San Francisco, CA New York, New York, United States | onsite | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7809973003) |
 | 79 | Data Analyst | Modern Health | Remote - US | remote | 2026-07-21 | [Apply](https://job-boards.greenhouse.io/modernhealth/jobs/8550544002) |
 | 78 | Analytics Engineer, Data Science | DoorDash | Austin, TX; Chicago, IL; New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C. | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7967918) |
@@ -32,6 +32,7 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 74 | Data Engineer II , UTR Data Engineering | Amazon | Bellevue, Washington, USA | onsite | 2026-07-27 | [Apply](https://account.amazon.jobs/jobs/10485415/apply) |
 | 74 | Business Intelligence Engineer, Intelligent Talent Acquisition | Amazon | Irving, Texas, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486652/apply) |
 | 74 | Data Scientist, Prenatal | BillionToOne | Menlo Park, CA Menlo Park, California, United States | onsite | 2026-07-21 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4694395005) |
+| 74 | Business Intelligence Engineer II, MENA Product | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10486936/apply) |
 | 74 | Business Intelligence Engineer, Supply Chain Innovation, Bulk Fulfillment | Amazon | Bellevue, Washington, USA | onsite | 2026-07-27 | [Apply](https://account.amazon.jobs/jobs/10485425/apply) |
 | 73 | Data Scientist, Marketing | Scopely | US - San Francisco, United States; US - Sunnyvale, United States | onsite | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5208115008?gh_jid=5208115008) |
 | 73 | Data Engineer III - AMZ10212104 | Amazon | Seattle, Washington, USA | onsite | 2026-07-14 | [Apply](https://account.amazon.jobs/jobs/10474537/apply) |
@@ -45,8 +46,8 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 73 | Associate, Data Analytics (NYC - Hybrid) | Oscar Health | Remote New York, New York, United States | remote | 2026-07-28 | [Apply](http://www.hioscar.com/careers/7688263?gh_jid=7688263) |
 | 73 | Associate, Data Analytics (Dallas, TX- Remote) | Oscar Health | Remote New York, New York, United States | remote | 2026-07-28 | [Apply](http://www.hioscar.com/careers/7825287?gh_jid=7825287) |
 | 72 | Data Scientist II - AMZ27596.1 | Amazon | Irving, Texas, USA | onsite | 2026-07-14 | [Apply](https://account.amazon.jobs/jobs/10474326/apply) |
-| 72 | Data Analyst, In-Store | DoorDash | New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7990832) |
 | 72 | Associate, Data Analytics (Atlanta, GA- Remote) | Oscar Health | Remote New York, New York, United States | remote | 2026-07-28 | [Apply](http://www.hioscar.com/careers/7825290?gh_jid=7825290) |
+| 72 | Data Analyst, In-Store | DoorDash | New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7990832) |
 | 72 | Business Intelligence Engineer, Core Shopping Analytics | Amazon | Seattle, Washington, USA | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10480914/apply) |
 | 71 | Business Intelligence Engineer , North America Supply Chain, Supply Chain Placement | Amazon | Bellevue, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486626/apply) |
 | 71 | Machine Learning Engineer - Prediction and Planning | Applied Materials | Sunnyvale | onsite | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/applied/129325ce-77e6-4d2a-a24a-6726acb53749/application) |
@@ -57,8 +58,8 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 70 | Data Scientist, North Insights | Cohere | United States | hybrid | 2026-07-23 | [Apply](https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af/application) |
 | 70 | Data Analyst – Revenue & Metrics | LaunchDarkly | Hybrid - Bangalore Hybrid - Bangalore | hybrid | 2026-07-06 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7692792003) |
 | 70 | Product Data Engineer | Anduril | Irvine, California, United States Irvine, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007) |
-| 70 | Product Data Engineer | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5123282007?gh_jid=5123282007) |
 | 70 | [2026] Data Scientist, Social | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) |
+| 70 | Product Data Engineer | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007) |
 | 70 | Data Engineer, Data Center Engineering, Data Center Engineering Analytics | Amazon | Atlanta, Georgia, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10485477/apply) |
 | 70 | Data Scientist, Decisions - Central Market Management | Lyft | San Francisco, CA New York, New York, United States | hybrid | 2026-07-06 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8376875002?gh_jid=8376875002) |
 | 70 | Engineer III - Data Analytics (Remote) | CrowdStrike | USA - Remote | remote | 2026-07-29 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/CrowdstrikeCareers/job/USA---Remote/Engineer-III---Data-Analytics--Hybrid-_R28230) |
@@ -74,6 +75,7 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 68 | Advanced Technologist (Data Analytics) | Boeing | USA - Seattle, WA | onsite | 2026-07-22 | [Apply](https://boeing.wd1.myworkdayjobs.com/External_Careers/job/USA---Seattle-WA/Advanced-Technologist--Data-Analytics-_JR2026519599-1) |
 | 68 | Data Engineer-ETL\| Informatica \| SQL PL/SQL \| RDBMS \| Data Warehousing | PNC Financial Services | Home Location-IL (ILH01) | onsite | 2026-07-21 | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-IL-ILH01/Data-Engineer-ETL--Informatica---SQL-PL-SQL---RDBMS---Data-Warehousing_R219221-1) |
 | 68 | Data Analyst (Python, SQL, Power BI) | PPG Industries | 2 Locations | onsite | 2026-07-28 | [Apply](https://ppg.wd5.myworkdayjobs.com/Ppg_Careers/job/ESP--Barcelona-Office/Data-Analyst--Python--SQL--Power-BI-_JR268317) |
+| 68 | Data Engineer, PV Prime Video TV - Tech | Amazon | Seattle, Washington, USA | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10486922/apply) |
 | 67 | Machine Learning Engineer, Perception | Wing Aviation | Palo Alto, California | hybrid | 2026-07-21 | [Apply](https://wing.com/careers/8604818002?gh_jid=8604818002) |
 | 67 | Forward-Deployed Data Scientist II | Braze | Paris Paris | hybrid | 2026-07-16 | [Apply](https://boards.greenhouse.io/braze/jobs/7966154?gh_jid=7966154) |
 | 67 | Forward-Deployed Data Scientist II | Braze | London London | hybrid | 2026-07-16 | [Apply](https://boards.greenhouse.io/braze/jobs/7976105?gh_jid=7976105) |
@@ -91,6 +93,7 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 65 | Machine Learning Engineer - Inference | Together AI | San Francisco  San Francisco, California, United States | onsite | 2026-07-10 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/4385540007) |
 | 65 | Analyst 2, Data Analytics & Business Intelligence | Comcast | 12 Locations | onsite | 2026-07-28 | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst-2--Data-Analytics---Business-Intelligence_R441901) |
 | 65 | Data Analytics Instructor | Leidos | Hampton, VA | onsite | 2026-07-24 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Data-Analytics-Instructor_R-00187898) |
+| 65 | Data Scientist, Prime Video | Amazon | Seattle, Washington, USA | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10486917/apply) |
 | 64 | Data Engineer - Oracle PLSQL, Data Analytics, Geo Postal Data Maintenance | Cisco | 2 Locations | onsite | 2026-07-28 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hyderabad-India/Data-Engineer---Oracle-PLSQL--Data-Analytics--Geo-Postal-Data-Maintenance_2018638-1) |
 | 64 | Quality & Data Analytics - Reporting Officer | Motorola Solutions | Washington DC Remote Work, More... | remote | 2026-07-15 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/Sr-Project-Management-Analyst_R65817-1) |
 | 64 | Research Scientist - Multimodal Agent, Consumer Devices | OpenAI | San Francisco | hybrid | 2026-07-21 | [Apply](https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3/application) |

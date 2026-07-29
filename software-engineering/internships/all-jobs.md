@@ -4,6 +4,7 @@ Every active software engineering internships posting the pipeline has found, un
 
 | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|
+| Staff Software Engineer, Proactive Communications | Hinge Health | San Francisco-HQ | hybrid | 2026-07-29 | [Apply](https://jobs.ashbyhq.com/hinge-health/4fba45fc-b27f-4ac8-9eac-2b8ac66c0a58/application) |
 | Senior Systems Engineer | Relativity Space | Long Beach, California Long Beach, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/relativity/jobs/8542002002?gh_jid=8542002002) |
 | Software Engineering Intern (4 Months) | Ciena | Ottawa | onsite | 2026-07-28 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) |
 | Internship: Automotive Customer Application Software Engineer (m/f/d) | NXP Semiconductors | Gratkorn | onsite | 2026-07-28 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Automotive-Customer-Application-Software-Engineer--m-f-d-_R-10064842) |
@@ -69,7 +70,6 @@ Every active software engineering internships posting the pipeline has found, un
 | Intern-Software Engineering | Cadence Design Systems | HOME MI | onsite | 2026-06-29 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) |
 | software engineering intern | Cadence Design Systems | BEIJING | onsite | 2026-06-29 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BEIJING/software-engineering-intern_R52210) |
 | Software Engineering Intern | Cadence Design Systems | PITTSBURGH 03 | onsite | 2026-06-29 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334) |
-| Intern - Software Engineer | Palo Alto Networks | Office - USA - CA - Headquarters | onsite | 2026-06-29 | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570) |
 | Embedded Software Engineer – Intern | Ciena | Ottawa | onsite | 2026-06-29 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) |
 | Software Engineer Intern | Marvell Technology | Madrid | onsite | 2026-06-29 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2502346) |
 | R&D Intern - Wireless Systems Engineer - 2026 | Motorola Solutions | Los Angeles, CA | onsite | 2026-06-29 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
@@ -77,6 +77,7 @@ Every active software engineering internships posting the pipeline has found, un
 | Intern Software Developer, Stagiaire en Développement Logiciel | Autodesk | Quebec, CAN - Remote | remote | 2026-06-29 | [Apply](https://autodesk.wd1.myworkdayjobs.com/EXT/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) |
 | Web Application Developer Intern | NXP Semiconductors | Sibiu | onsite | 2026-06-29 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Sibiu/Web-Application-Developer_R-10062196) |
 | PhD Software Engineering Intern, Decision Intelligence - Fall 2026 | NVIDIA | US, CA, Santa Clara | onsite | 2026-06-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) |
+| Intern - Software Engineer | Palo Alto Networks | Office - USA - CA - Headquarters | onsite | 2026-06-29 | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570) |
 | Senior Software Engineer - Backend | Hinge Health | San Francisco-HQ | hybrid | 2026-06-25 | [Apply](https://jobs.ashbyhq.com/hinge-health/606c50e5-9b4d-41a3-9435-428bad17d01a/application) |
 | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Palantir | Chicago, IL | onsite | 2026-06-24 | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply) |
 | Software Engineer Intern - Berlin (2026) | Snowflake | DE-Berlin-Trion Building | onsite | 2026-06-02 | [Apply](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27/application) |
@@ -96,7 +97,6 @@ Every active software engineering internships posting the pipeline has found, un
 | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Palantir | New York, NY | onsite | 2026-03-20 | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply) |
 | Forward Deployed Software Engineer, Internship - France | Palantir | New York, NY | hybrid | 2026-03-10 | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply) |
 | Staff Software Engineer, Hinge Select | Hinge Health | San Francisco-HQ | hybrid | 2026-03-05 | [Apply](https://jobs.ashbyhq.com/hinge-health/8c81f0c5-a2e8-43ba-8347-34c6302c1c3a/application) |
-| Staff Software Engineer, Proactive Communications | Hinge Health | San Francisco-HQ | hybrid | 2026-03-05 | [Apply](https://jobs.ashbyhq.com/hinge-health/4fba45fc-b27f-4ac8-9eac-2b8ac66c0a58/application) |
 | Forward Deployed Software Engineer, Internship - Poland | Palantir | New York, NY | hybrid | 2026-02-19 | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply) |
 | Senior Software Engineer, Core Infrastructure | Harvey | San Francisco | hybrid | 2026-01-23 | [Apply](https://jobs.ashbyhq.com/harvey/748edfbe-f819-47fd-85bb-3c4974f8913f/application) |
 | Forward Deployed Software Engineer, Internship - US Government | Palantir | Honolulu, HI | onsite | 2025-12-11 | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply) |

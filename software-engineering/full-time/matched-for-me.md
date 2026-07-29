@@ -1,10 +1,11 @@
 # Software Engineering Full-Time — Matched for Roman
 
-Jobs scored at or above 60 against Roman's resume, highest score first. **351 total** — showing the top 150 by score.
+Jobs scored at or above 60 against Roman's resume, highest score first. **350 total** — showing the top 150 by score.
 
 | Score | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 89 | Client Platform Engineer | Otter.ai | Mountain View, CA Mountain View, CA | hybrid | 2026-07-23 | [Apply](https://otter.ai/careers?gh_jid=7518107003) |
+| 88 | Software Engineer I, Data Platform | Abnormal AI | Remote - USA | remote | 2026-07-29 | [Apply](https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003) |
 | 87 | Software Engineer, Cluster Deployment | Cerebras Systems | Headquarters/Sunnyvale Office | onsite | 2026-07-23 | [Apply](https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6/application) |
 | 86 | Machine Learning Infrastructure Engineer | Astera Labs | San Jose, California, United States California | onsite | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/asteralabs/jobs/4706340005) |
 | 86 | Software Engineer- Postgres | Snowflake | US-CA-Menlo Park | onsite | 2026-07-24 | [Apply](https://jobs.ashbyhq.com/snowflake/494fcbd0-1cf3-4248-b5cf-b35d982ced00/application) |
@@ -21,12 +22,12 @@ Jobs scored at or above 60 against Roman's resume, highest score first. **351 to
 | 83 | Simulation Infrastructure Engineer | OpenAI | San Francisco | onsite | 2026-07-22 | [Apply](https://jobs.ashbyhq.com/openai/39cd0dd8-520d-4932-80bf-7495a1d1d11b/application) |
 | 83 | Systems Engineer, Launched Effects | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | hybrid | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5157570007?gh_jid=5157570007) |
 | 83 | Software Engineer - Mobile, Android | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | remote | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5163532007?gh_jid=5163532007) |
-| 82 | Junior Software Engineer | Verisign | Reston,Virginia,United States Reston,Virginia,United States | hybrid | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7766899003) |
+| 82 | Junior Software Engineer | Verisign | Reston,Virginia,United States Reston,Virginia,United States | hybrid | 2026-07-29 | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7766899003) |
 | 82 | Software Engineer, Java | Scopely | IN - Bangalore, India | hybrid | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5368250008?gh_jid=5368250008) |
 | 82 | Ground Systems Engineer II, Automation Controls | Rocket Lab | Stennis Space Center, MS Stennis Space Center, MS | remote | 2026-07-13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7703264003) |
 | 82 | Software Engineer, Space Systems Test | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | remote | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4992181007?gh_jid=4992181007) |
 | 82 | Mission Software Engineer, EW | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007) |
-| 82 | Software Engineer II | Verisign | Reston,Virginia,United States Reston,Virginia,United States | hybrid | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7765684003) |
+| 82 | Software Engineer II | Verisign | Reston,Virginia,United States Reston,Virginia,United States | hybrid | 2026-07-29 | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7765684003) |
 | 82 | Software Engineer II - App Core (Remote Eligible) | Smartsheet | -REMOTE, USA- | remote | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/smartsheet/jobs/8007934) |
 | 81 | Data Platform Engineer | Hasbro | Boston, Massachusetts, United States Boston, Massachusetts, United States | onsite | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4287583009) |
 | 81 | Software Engineer - Advanced Reporting | Klaviyo | Boston, MA Boston, Massachusetts, United States | onsite | 2026-07-24 | [Apply](https://www.klaviyo.com/careers/jobs/7811667003?gh_jid=7811667003) |
@@ -35,8 +36,7 @@ Jobs scored at or above 60 against Roman's resume, highest score first. **351 to
 | 81 | Systems Engineer, Managed Operations | Amazon | Dublin, IRL | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10485761/apply) |
 | 81 | Software Engineer, Quality Integration | Anduril | Seattle, Washington, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5133682007?gh_jid=5133682007) |
 | 81 | Software Engineer - Database Engineering | Snowflake | US-CA-Menlo Park | onsite | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995/application) |
-| 81 | Java Software Engineer | Verisign | Reston,Virginia,United States Reston,Virginia,United States | hybrid | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7803020003) |
-| 81 | Robotics Software Engineer | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5113524007?gh_jid=5113524007) |
+| 81 | Java Software Engineer | Verisign | Reston,Virginia,United States Reston,Virginia,United States | hybrid | 2026-07-29 | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7803020003) |
 | 81 | Infrastructure and Platform Engineer, Metal | Tenstorrent | United States Santa Clara, California, United States | hybrid | 2026-07-21 | [Apply](https://job-boards.greenhouse.io/tenstorrent/jobs/5105551007) |
 | 80 | Software Engineer, Cloud OS | Anduril | Seattle, Washington, United States Seattle, Washington, United States | remote | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5130646007?gh_jid=5130646007) |
 | 80 | Systems Engineer, Edge | Cloudflare | In-Office | onsite | 2026-07-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7068271?gh_jid=7068271) |
@@ -58,9 +58,9 @@ Jobs scored at or above 60 against Roman's resume, highest score first. **351 to
 | 79 | Software Engineer, ARC Team | Scale AI | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC Washington, District of Columbia, United States | onsite | 2026-07-09 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4673771005) |
 | 79 | Full Stack Engineer, Go-to-Market Systems | Verkada | San Mateo, CA United States San Mateo, California, United States | onsite | 2026-07-21 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5101666007) |
 | 79 | Software Engineer, Advanced Services | NICE Ltd | USA - Sandy, UT USA - Sandy, UT | remote | 2026-06-29 | [Apply](https://boards.eu.greenhouse.io/nice/jobs/4893542101?gh_jid=4893542101) |
-| 78 | Software Engineer | Ethos Life | Remote US Remote US | remote | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/ethoslife/jobs/8635727002) |
 | 78 | Software Engineer, Memberships I | Twitch | Seattle, WA San Francisco, CA | hybrid | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8610471002) |
 | 78 | Systems Engineer (Data Intelligence & Analytics Team) | Cloudflare | In-Office | onsite | 2026-07-08 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8022909?gh_jid=8022909) |
+| 78 | Software Engineer | Ethos Life | Remote US Remote US | remote | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/ethoslife/jobs/8635727002) |
 | 78 | Robotics Software Engineer, Maneuver Dominance | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5113527007?gh_jid=5113527007) |
 | 78 | Software Engineer, Infrastructure | Chime | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA San Francisco, California, United States | remote | 2026-07-17 | [Apply](https://boards.greenhouse.io/chime/jobs/8616359002?gh_jid=8616359002) |
 | 78 | Software Engineer, RL Data | Anthropic | San Francisco, CA \| New York City, NY San Francisco, California, United States | onsite | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5238606008) |
@@ -70,7 +70,7 @@ Jobs scored at or above 60 against Roman's resume, highest score first. **351 to
 | 78 | Software Engineer III | 6sense | Austin, Texas, United States Austin, Texas, United States | remote | 2026-07-27 | [Apply](https://boards.greenhouse.io/6sense/jobs/8037358?gh_jid=8037358) |
 | 78 | Systems Engineer, Data Intelligence & Analytics Team | Cloudflare | In-Office Austin, TX, United States | hybrid | 2026-07-09 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8050813?gh_jid=8050813) |
 | 78 | Software Engineer, Public Sector | Scale AI | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC Washington, District of Columbia, United States | onsite | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4302243005) |
-| 78 | Software Engineer, C++ | Anduril | Broomfield, Colorado, United States; Fort Collins, Colorado, United States Broomfield, Colorado, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5180557007?gh_jid=5180557007) |
+| 78 | Software Engineer, C++ | Anduril | Broomfield, Colorado, United States; Fort Collins, Colorado, United States Broomfield, Colorado, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5194563007?gh_jid=5194563007) |
 | 78 | Systems Engineer I/II Pipeline | Rocket Lab | Long Beach, CA Long Beach, California, United States | onsite | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7646310003) |
 | 78 | Embedded Software Engineer - Network Software | Astranis | San Francisco San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4363202006) |
 | 78 | DevOps Engineer - Infrastructure | Kodiak Sciences | Mountain View, CA Mountain View, California, United States | remote | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4090717009) |
@@ -78,12 +78,12 @@ Jobs scored at or above 60 against Roman's resume, highest score first. **351 to
 | 77 | Software Engineer I | The Trade Desk | Bellevue Bellevue | onsite | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007) |
 | 77 | Software Engineer | Pure Storage | Santa Clara, California Santa Clara, California, United States | onsite | 2026-07-16 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8065306) |
 | 77 | Software Engineer, Privacy Engineering (Lawful Access) | OpenAI | San Francisco | hybrid | 2026-07-23 | [Apply](https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3/application) |
-| 77 | Scientific Software Engineer | Anduril | Broomfield, Colorado, United States; Fort Collins, Colorado, United States Broomfield, Colorado, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5194570007?gh_jid=5194570007) |
+| 77 | Scientific Software Engineer | Anduril | Broomfield, Colorado, United States; Fort Collins, Colorado, United States Broomfield, Colorado, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5193934007?gh_jid=5193934007) |
 | 77 | Software Engineer, Manufacturing Test | Anduril | Mountain View, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161515007?gh_jid=5161515007) |
 | 77 | Software Engineer, Manufacturing Test | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161512007?gh_jid=5161512007) |
 | 77 | Software Engineer, Manufacturing Test | Anduril | Bellevue, Washington, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161517007?gh_jid=5161517007) |
 | 77 | Software Engineer, Manufacturing Test | Anduril | Atlanta, Georgia, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161520007?gh_jid=5161520007) |
-| 77 | Systems Engineer, Industrial Infrastructure | Redwood Materials | McCarran, NV | hybrid | 2026-07-28 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6103562004?gh_jid=6103562004) |
+| 77 | Systems Engineer, Industrial Infrastructure | Redwood Materials | McCarran, NV | hybrid | 2026-07-29 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6103562004?gh_jid=6103562004) |
 | 77 | ML Software Engineer, ETA | Lyft | San Francisco, CA San Francisco, California, United States | hybrid | 2026-07-20 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002) |
 | 77 | Software Engineer II, Customer Lifecycle Engineering | Attentive | United States | onsite | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/attentive/jobs/4251552009) |
 | 77 | Fluid Systems Engineer II | Relativity Space | Long Beach, California Long Beach, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/relativity/jobs/8568918002?gh_jid=8568918002) |
@@ -94,11 +94,11 @@ Jobs scored at or above 60 against Roman's resume, highest score first. **351 to
 | 77 | Software Infrastructure Engineer | Graphcore | Bristol, UK Bristol, UK | hybrid | 2026-07-08 | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8554852002) |
 | 77 | Software Engineer II | The Trade Desk | San Francisco San Francisco | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5102422007) |
 | 77 | Software Engineer, Agents | Benchling | San Francisco, CA | onsite | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/benchling/c66a06b7-5d9e-4b6c-b35b-12c86bb72a71/application) |
-| 76 | Software Engineer, Workers Deploy & Config | Cloudflare | In-Office Austin, TX, United States | onsite | 2026-07-17 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7377424?gh_jid=7377424) |
-| 76 | Infrastructure Engineer (Data Center Operations) | Cerebras Systems | Headquarters/Sunnyvale Office | onsite | 2026-07-16 | [Apply](https://jobs.ashbyhq.com/cerebras/07120606-8ddb-43bd-8e79-453573c84760/application) |
 | 76 | Manufacturing Software Engineer, Intelligence Systems | Anduril | Santa Ana, California, United States Santa Ana, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007) |
+| 76 | Software Engineer, Workers Deploy & Config | Cloudflare | In-Office Austin, TX, United States | onsite | 2026-07-17 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7377424?gh_jid=7377424) |
 | 76 | Software Engineer, Reconciliation & Reporting | Block | Bay Area, CA, United States of America | remote | 2026-07-27 | [Apply](http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008) |
 | 76 | Software Engineer, Perception | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | remote | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5165250007?gh_jid=5165250007) |
+| 76 | Infrastructure Engineer (Data Center Operations) | Cerebras Systems | Headquarters/Sunnyvale Office | onsite | 2026-07-16 | [Apply](https://jobs.ashbyhq.com/cerebras/07120606-8ddb-43bd-8e79-453573c84760/application) |
 | 76 | Software Engineer, New Grad 2026 | Color Health | South San Francisco, California | onsite | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application) |
 | 76 | SDE, MLA hardware/software co-design, Annapurna Labs Machine Learning Acceleration | Amazon | Austin, Texas, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486046/apply) |
 | 76 | Software Engineer II | The Trade Desk | Madrid Madrid | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5120396007) |
@@ -116,12 +116,12 @@ Jobs scored at or above 60 against Roman's resume, highest score first. **351 to
 | 75 | Machine Learning Infrastructure Engineer, Safeguards Research | Anthropic | San Francisco, CA \| New York City, NY San Francisco, California, United States | onsite | 2026-07-21 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5364804008) |
 | 75 | Software Engineer II | The Trade Desk | San Jose San Jose | onsite | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5196829007) |
 | 75 | Full-Stack Software Engineer, Reinforcement Learning | Anthropic | San Francisco, CA \| New York City, NY San Francisco, California, United States | onsite | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5186067008) |
-| 75 | Site Reliability Engineer | Obsidian Security | Palo Alto, California, USA 680 Newport Center Drive Suite 200 Newport Beach, CA 92660 | onsite | 2026-07-03 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290879008) |
 | 75 | Systems Engineer - Global Resource Management (Data Residency) | Cloudflare | Hybrid Austin, TX, United States | hybrid | 2026-07-25 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8015230?gh_jid=8015230) |
 | 75 | Physical Infrastructure Engineer (On-premise) | Waabi | Dallas, TX | hybrid | 2026-07-22 | [Apply](https://jobs.lever.co/waabi/933f2e35-ffaf-41db-b836-56de0323f519/apply) |
 | 75 | Software Engineer, Connected Warfare | Anduril | Washington, District of Columbia, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4596297007?gh_jid=4596297007) |
 | 75 | Software Engineer, Connected Warfare | Anduril | Seattle, Washington, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4541903007?gh_jid=4541903007) |
 | 75 | Software Engineer, Connected Warfare | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007) |
+| 75 | Site Reliability Engineer | Obsidian Security | Palo Alto, California, USA 680 Newport Center Drive Suite 200 Newport Beach, CA 92660 | onsite | 2026-07-03 | [Apply](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290879008) |
 | 75 | Orbital Software Engineer, Space | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4872480007?gh_jid=4872480007) |
 | 75 | Software Engineer, Battlespace Awareness | Anduril | Broomfield, Colorado, United States; Fort Collins, Colorado, United States Broomfield, Colorado, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5195728007?gh_jid=5195728007) |
 | 75 | Software Engineer, Registry and Inventory | Benchling | San Francisco, CA | hybrid | 2026-07-27 | [Apply](https://jobs.ashbyhq.com/benchling/2ff50609-1843-49c0-aa39-36d84aa14802/application) |
@@ -145,6 +145,7 @@ Jobs scored at or above 60 against Roman's resume, highest score first. **351 to
 | 74 | Software Engineer - SaaS Data Protection | Rubrik | Palo Alto, CA Palo Alto, CA, United States | onsite | 2026-07-27 | [Apply](https://www.rubrik.com/company/careers/departments/job.8076167?gh_jid=8076167) |
 | 74 | Software Engineer - Query Language | New Relic | Portland, Oregon, USA California | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5231595008) |
 | 74 | Software Engineer, CDN Content | Vercel | Hybrid - San Francisco San Francisco, California, United States | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6105394004) |
+| 74 | Software Engineer, Ads Platform | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/8047815?gh_jid=8047815) |
 | 74 | Site Reliability Engineer, Intelligence Systems | Anduril | Reston, Virginia, United States Reston, Virginia, United States | remote | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5177893007?gh_jid=5177893007) |
 | 74 | Robotics Software Engineer, Vehicle Software | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | remote | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) |
 | 74 | Quantum Software Engineer | Anduril | Washington, District of Columbia, United States Washington, District of Columbia, United States | hybrid | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5089054007?gh_jid=5089054007) |
@@ -152,5 +153,4 @@ Jobs scored at or above 60 against Roman's resume, highest score first. **351 to
 | 74 | Software Engineer, Compute Foundations Systems | OpenAI | San Francisco | onsite | 2026-07-21 | [Apply](https://jobs.ashbyhq.com/openai/770d5c3f-4e72-4b49-aec4-d444e8ad7a64/application) |
 | 74 | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | DoorDash | New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA | remote | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7263610) |
 | 73 | Manufacturing Software Engineer, Intelligence Systems | Anduril | Ashville, Ohio, United States Ashville, Ohio, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5080387007?gh_jid=5080387007) |
-| 73 | Software Engineer, Ads Platform | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/8047815?gh_jid=8047815) |
 | 73 | Robotics Software Engineer - Undersea Dominance | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5196757007?gh_jid=5196757007) |

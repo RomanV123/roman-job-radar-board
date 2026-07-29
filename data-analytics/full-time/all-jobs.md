@@ -1,6 +1,6 @@
 # Data & Analytics Full-Time — All Jobs Found
 
-Every active data & analytics full-time posting the pipeline has found, unfiltered by resume fit, most recently posted first. **922 total found** — showing the 300 most recently posted (the dashboard in the main app always has the full list).
+Every active data & analytics full-time posting the pipeline has found, unfiltered by resume fit, most recently posted first. **924 total found** — showing the 300 most recently posted (the dashboard in the main app always has the full list).
 
 | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|
@@ -23,11 +23,6 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Sr. Manager, Engineering - Data Analytics Infrastructure (Hybrid) | CrowdStrike | USA - Austin, TX | onsite | 2026-07-29 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/CrowdstrikeCareers/job/USA---Austin-TX/Sr-Manager--Engineering---Data-Analytics-Infrastructure--Hybrid-_R29506) |
 | Data Scientist - Gen AI (Remote) | CrowdStrike | 3 Locations | onsite | 2026-07-29 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/CrowdstrikeCareers/job/United-Kingdom---Remote/Data-Scientist---Gen-AI--Remote-_R29525) |
 | Staff Data Engineer | Dexcom | San Diego, California | onsite | 2026-07-29 | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Staff-Data-Engineer_JR120178-1) |
-| Data Scientist | Lonza | NL - Geleen | onsite | 2026-07-29 | [Apply](https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/NL---Geleen/Data-Scientist_R77324) |
-| Senior IT AI/ML Engineer - Data Analytics | Palo Alto Networks | Office - USA - CA - Headquarters | onsite | 2026-07-29 | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Senior-IT-AI-ML-Engineer---Data-Analytics_JR-015873) |
-| Associate Research Scientist - Vaccines | Thermo Fisher Scientific | Richmond, Virginia, USA | onsite | 2026-07-29 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Richmond-Virginia-USA/Associate-Research-Scientist---Vaccines_R-01357119) |
-| Associate, Services Business Intelligence | Ciena | Gurugram | onsite | 2026-07-29 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Associate--Services-Business-Intelligence_R031400) |
-| Software Engineer (AI/Data Engineering) | Cisco |  |  | 2026-07-29 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Software-Engineer--AI-Data-Engineering-_2011631-1) |
 | Staff Data Scientist, AI for Business Functions | Micron Technology | Boise, ID - Main Site | onsite | 2026-07-29 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Data-Scientist--AI-for-Business-Functions_JR106946) |
 | Senior Data Scientist (CDMX) | PPG Industries | MEX - COMEX Altiva Office | onsite | 2026-07-29 | [Apply](https://ppg.wd5.myworkdayjobs.com/Ppg_Careers/job/MEX---COMEX-Altiva-Office/Senior-Data-Scientist--CDMX-_JR2610361) |
 | Data Analyst - Sourcing Analytics | Sysco | Sysco Corporate | onsite | 2026-07-29 | [Apply](https://sysco.wd5.myworkdayjobs.com/SyscoCareers/job/Sysco-Corporate/Data-Analyst---Sourcing-Analytics_R258637) |
@@ -36,9 +31,26 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Business Intelligence Architect 2 | Humana | Louisville, KY | onsite | 2026-07-29 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Business-Intelligence-Architect-2_R-421822) |
 | Strategic Data Scientist | McKesson Corporation | 2 Locations | onsite | 2026-07-29 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Strategic-Data-Scientist_JR0151080-2) |
 | Senior Data Engineer, Engineering Data Analytics | NVIDIA | US, CA, Santa Clara | onsite | 2026-07-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Engineer--Engineering-Data-Analytics_JR2020545) |
-| Data Engineering Manager | Redwood Materials | McCarran, NV | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) |
+| Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation and Evaluation | NVIDIA | US, CA, Santa Clara | onsite | 2026-07-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer---Physical-AI-and-Synthetic-Data-Generation_JR2017502) |
+| Data Scientist | Lonza | NL - Geleen | onsite | 2026-07-29 | [Apply](https://lonza.wd3.myworkdayjobs.com/Lonza_Careers/job/NL---Geleen/Data-Scientist_R77324) |
+| Senior IT AI/ML Engineer - Data Analytics | Palo Alto Networks | Office - USA - CA - Headquarters | onsite | 2026-07-29 | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Senior-IT-AI-ML-Engineer---Data-Analytics_JR-015873) |
+| Associate Research Scientist - Vaccines | Thermo Fisher Scientific | Richmond, Virginia, USA | onsite | 2026-07-29 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Richmond-Virginia-USA/Associate-Research-Scientist---Vaccines_R-01357119) |
+| Senior Data Scientist - Machine Intelligence (Creator Services) | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/7822736?gh_jid=7822736) |
+| Senior Machine Learning Engineering Manager, Safety AI Systems | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/8047877?gh_jid=8047877) |
+| Senior Data Scientist, Engine Systems | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/7848812?gh_jid=7848812) |
+| Senior Data Scientist - Consumer Frontend | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/7977682?gh_jid=7977682) |
+| Senior Machine Learning Engineer, Reliability | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/8010058?gh_jid=8010058) |
+| Software Engineer, Data Engineering | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
+| Senior / Principal Data Scientist - Discovery | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/8037082?gh_jid=8037082) |
+| Senior Data Scientist, Creator Platform | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/8049802?gh_jid=8049802) |
+| Machine Learning Engineering Manager, Critical Harms | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/7739622?gh_jid=7739622) |
+| Principal Machine Learning Engineer, Content Safety | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-29 | [Apply](https://careers.roblox.com/jobs/8073283?gh_jid=8073283) |
+| Data Engineering Manager | Redwood Materials | McCarran, NV | onsite | 2026-07-29 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) |
+| Data Analyst II | Verisign | Reston,Virginia,United States Reston,Virginia,United States | hybrid | 2026-07-29 | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7817954003) |
+| Data Engineer, PV Prime Video TV - Tech | Amazon | Seattle, Washington, USA | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10486922/apply) |
+| Data Scientist, Prime Video | Amazon | Seattle, Washington, USA | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10486917/apply) |
+| Business Intelligence Engineer II, MENA Product | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10486936/apply) |
 | Senior Analytics Engineer | Redwood Materials | San Francisco, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) |
-| Data Analyst II | Verisign | Reston,Virginia,United States Reston,Virginia,United States | hybrid | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/verisign/jobs/7817954003) |
 | Staff Analytics Engineer - Accounting | Snowflake | US-CA-Menlo Park | hybrid | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/snowflake/19b73f37-41cb-4758-a028-d349fdaa8ab0/application) |
 | Senior Manager, Data Engineering - Valorant | Riot Games | Los Angeles, USA Los Angeles, California, United States | onsite | 2026-07-28 | [Apply](https://www.riotgames.com/en/work-with-us/job/7551204?gh_jid=7551204) |
 | Sr. Data Scientist - Forecasting | Lyra Health | United States | remote | 2026-07-28 | [Apply](https://jobs.lever.co/lyrahealth/2ff6d90d-dddb-4578-a56d-057e69cbb01f/apply) |
@@ -53,22 +65,13 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | [2026] Data Scientist, Social | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) |
 | Senior Machine Learning Engineer, Ads | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/7351220?gh_jid=7351220) |
 | Principal Machine Learning Engineer, Embodied AI and Smart NPCs | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/7629843?gh_jid=7629843) |
-| Senior Data Scientist - Machine Intelligence (Creator Services) | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/7822736?gh_jid=7822736) |
-| Senior Machine Learning Engineering Manager, Safety AI Systems | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/8047877?gh_jid=8047877) |
-| Senior Data Scientist, Engine Systems | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/7848812?gh_jid=7848812) |
-| Senior Data Scientist - Consumer Frontend | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/7977682?gh_jid=7977682) |
-| Senior Machine Learning Engineer, Reliability | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/8010058?gh_jid=8010058) |
-| Software Engineer, Data Engineering | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
-| Senior / Principal Data Scientist - Discovery | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/8037082?gh_jid=8037082) |
-| Senior Data Scientist, Creator Platform | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/8049802?gh_jid=8049802) |
-| Machine Learning Engineering Manager, Critical Harms | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/7739622?gh_jid=7739622) |
-| Principal Machine Learning Engineer, Content Safety | Roblox | San Mateo, CA, United States San Mateo, CA, United States | onsite | 2026-07-28 | [Apply](https://careers.roblox.com/jobs/8073283?gh_jid=8073283) |
 | Principal Data Engineer | Recorded Future | Boston, MA Somerville, Massachusetts, United States | onsite | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/recordedfuture/jobs/8652561002) |
 | Manager, Data Engineering | HackerOne | Washington DC | remote | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/hackerone/c8f46a18-3347-42e6-9fae-c0dbc3e89618/application) |
 | Data Engineer | Fieldwire | United States (Remote) | remote | 2026-07-28 | [Apply](https://www.fieldwire.com/job/8623237002?gh_jid=8623237002) |
 | Principal Machine Learning Engineer (Personalization, Matchmaking, & Player Experience AI) - Publishing Platform | Riot Games | Los Angeles, USA; Mercer Island, USA Los Angeles, California, United States | onsite | 2026-07-28 | [Apply](https://www.riotgames.com/en/work-with-us/job/7412544?gh_jid=7412544) |
 | Staff Machine Learning Engineer - Game Tech Group, ML Platform | Riot Games | Los Angeles, USA Los Angeles, California, United States | onsite | 2026-07-28 | [Apply](https://www.riotgames.com/en/work-with-us/job/7977840?gh_jid=7977840) |
 | Staff Machine Learning Engineer - League of Legends | Riot Games | Los Angeles, USA Los Angeles, California, United States | onsite | 2026-07-28 | [Apply](https://www.riotgames.com/en/work-with-us/job/7981132?gh_jid=7981132) |
+| Product Data Engineer | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007) |
 | Sr. Data Analyst | Strive Health | Denver, CO | remote | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/strivehealth/jobs/4699719006) |
 | Senior Analytics Engineer | Twilio | Remote - US | remote | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8044650) |
 | Principal Data Scientist, GTM Data Science | SimpliSafe | Boston, MA Boston, MA, United States | onsite | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8084220) |
@@ -81,11 +84,8 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | People Data Analyst | Anduril | Boston, Massachusetts, United States Boston, Massachusetts, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5166088007?gh_jid=5166088007) |
 | Research Scientist, Takeoff Intel | Anthropic | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5370669008) |
 | Product Data Engineer | Anduril | Irvine, California, United States Irvine, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007) |
-| Product Data Engineer | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5123282007?gh_jid=5123282007) |
 | Senior Data Analyst, New Account Risk | Chime | San Francisco, CA, USA San Francisco, California, United States | remote | 2026-07-28 | [Apply](https://boards.greenhouse.io/chime/jobs/8637297002?gh_jid=8637297002) |
 | Senior Data Engineer | Dragos | United States | remote | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5181347008) |
-| AI Research Scientist - Datadog AI Research (DAIR) | Datadog | New York, New York, USA New York, NY, United States | onsite | 2026-07-28 | [Apply](https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669) |
-| Principal Machine Learning Engineer | Extreme Networks | Seattle, Washington, United States | remote | 2026-07-28 | [Apply](https://jobs.lever.co/extremenetworks/c4f45e59-637e-476a-8e3e-ae5dec06f30b/apply) |
 | Data Scientist - Mid Level active TS/SCI | Leidos | St. Louis, MO | onsite | 2026-07-28 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Data-Scientist---Mid-Level-active-TS-SCI_R-00187262-1) |
 | Data Scientist | Leidos | Springfield, VA | onsite | 2026-07-28 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Senior-Data-Scientist_R-00183350) |
 | Senior Data Scientist | Leidos | 2 Locations | onsite | 2026-07-28 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Rockville-MD/Senior-Data-Scientist_R-00185515) |
@@ -94,7 +94,6 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Data Analyst (Python, SQL, Power BI) | PPG Industries | 2 Locations | onsite | 2026-07-28 | [Apply](https://ppg.wd5.myworkdayjobs.com/Ppg_Careers/job/ESP--Barcelona-Office/Data-Analyst--Python--SQL--Power-BI-_JR268317) |
 | Sr. Associate Data Engineer | McKesson Corporation | USA, KS, Overland Park | onsite | 2026-07-28 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-KS-Overland-Park/Sr-Associate-Data-Engineer_JR0150958) |
 | Demand Planning Data Scientist Lead | Agilent Technologies | 3 Locations | onsite | 2026-07-28 | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Malaysia-Penang/Demand-Planning-Data-Scientist-Lead_4039138) |
-| Senior Research Scientist, Pharmacoepidemiology/Safety - client dedicated | Thermo Fisher Scientific | 5 Locations | onsite | 2026-07-28 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Remote-France/Pharmacoepidemiologist--Safety----client-dedicated_R-01356927) |
 | Sr Data Engineer - 6+ Years in ETL, Power BI & Java | Assurant | 2 Locations | onsite | 2026-07-28 | [Apply](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Bengaluru/Sr-Data-Engineer---SQL--ETL-ELT--Power-BI---Go_R-112422-1) |
 | Data Engineer - Oracle PLSQL, Data Analytics, Geo Postal Data Maintenance | Cisco | 2 Locations | onsite | 2026-07-28 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Hyderabad-India/Data-Engineer---Oracle-PLSQL--Data-Analytics--Geo-Postal-Data-Maintenance_2018638-1) |
 | Data Engineer - AI, Hybrid | Cisco | RTP, North Carolina, US | onsite | 2026-07-28 | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Data-Engineer---AI--Hybrid_2018109) |
@@ -116,6 +115,9 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Senior Data Engineer | Autodesk | Bengaluru, IND | onsite | 2026-07-28 | [Apply](https://autodesk.wd1.myworkdayjobs.com/EXT/job/Bengaluru-IND/Senior-Data-Engineer_26WD100084-1) |
 | Lead Data Scientist | Humana | 6 Locations | onsite | 2026-07-28 | [Apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Lead-Data-Scientist_R-417657) |
 | Senior Data Analyst - Finance | NVIDIA | US, CA, Santa Clara | onsite | 2026-07-28 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Analyst---Finance_JR2018506) |
+| AI Research Scientist - Datadog AI Research (DAIR) | Datadog | New York, New York, USA New York, NY, United States | onsite | 2026-07-28 | [Apply](https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669) |
+| Principal Machine Learning Engineer | Extreme Networks | Seattle, Washington, United States | remote | 2026-07-28 | [Apply](https://jobs.lever.co/extremenetworks/c4f45e59-637e-476a-8e3e-ae5dec06f30b/apply) |
+| Senior Research Scientist, Pharmacoepidemiology/Safety - client dedicated | Thermo Fisher Scientific | 5 Locations | onsite | 2026-07-28 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Remote-France/Pharmacoepidemiologist--Safety----client-dedicated_R-01356927) |
 | Machine Learning Engineer - Prediction and Planning | Applied Materials | Sunnyvale | onsite | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/applied/129325ce-77e6-4d2a-a24a-6726acb53749/application) |
 | Hardware Analytics Engineer | Cerebras Systems | Headquarters/Sunnyvale Office | hybrid | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/cerebras/22332143-b54d-47f2-944e-2fc52d5446df/application) |
 | Senior Business Intelligence Engineer, North America Supply Chain Execution  Strategy | Amazon | Austin, Texas, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486629/apply) |
@@ -172,7 +174,6 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Senior Data Scientist | Gartner | Barcelona | onsite | 2026-07-26 | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Barcelona/Senior-Data-Scientist_112546) |
 | Sr Data Analyst I (Onsite) | Axon Enterprise | Scottsdale, Arizona, United States Scottsdale, Arizona, United States | remote | 2026-07-25 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7751154003) |
 | Demand Planning Data Scientist | Agilent Technologies | 3 Locations | onsite | 2026-07-25 | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Malaysia-Penang/Demand-Planning-Data-Scientist_4039135-1) |
-| Sr. Machine Learning Engineer | Intel | 4 Locations | onsite | 2026-07-25 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Sr-Machine-Learning-Engineer_JR0285966) |
 | Business Intelligence Specialist, Global Finance Operations | Abbott Laboratories | United States - Ohio - Columbus | onsite | 2026-07-25 | [Apply](https://abbott.wd5.myworkdayjobs.com/AbbottCareers/job/United-States---Ohio---Columbus/Business-Intelligence-Specialist--Global-Finance-Operations_31156591-1) |
 | Senior RCM Data Analyst | Labcorp | Burlington NC | onsite | 2026-07-25 | [Apply](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Senior-RCM-Data-Analyst_2623469-1) |
 | Data Analyst | Leidos | Odenton, MD | onsite | 2026-07-25 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Data-Analyst_R-00188097) |
@@ -187,6 +188,7 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Data Scientist | Leidos | Bethesda, MD | onsite | 2026-07-25 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Data-Scientist_R-00188100) |
 | Research Scientist, Robotics Research -  PhD New College Grad 2026 | NVIDIA | US, WA, Seattle | onsite | 2026-07-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) |
 | Machine Learning Engineer, AI Safety | NVIDIA | 2 Locations | onsite | 2026-07-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--AI-Safety_JR2021784-1) |
+| Sr. Machine Learning Engineer | Intel | 4 Locations | onsite | 2026-07-25 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Sr-Machine-Learning-Engineer_JR0285966) |
 | Principal Machine Learning Engineer | Axon Enterprise | Seattle, Washington, United States Washington, United States | remote | 2026-07-25 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7577003003) |
 | Senior Machine Learning Engineer II | Axon Enterprise | Seattle, Washington, United States Washington, United States | remote | 2026-07-25 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7792633003) |
 | Senior Data Engineer II (Hybrid) | Axon Enterprise | Scottsdale, Arizona, United States Scottsdale, Arizona, United States | remote | 2026-07-25 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7516357003) |
@@ -216,9 +218,6 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Senior Data Scientist | Epic Games | BLANK,BLANK,Multiple Locations Bellevue, Washington, United States | onsite | 2026-07-24 | [Apply](https://epicgames.com/careers/jobs/5892152004?gh_jid=5892152004) |
 | Senior Machine Learning Engineer, Discovery Recommendations | Epic Games | Cary,North Carolina,United States Cary, North Carolina, United States | onsite | 2026-07-24 | [Apply](https://epicgames.com/careers/jobs/5972880004?gh_jid=5972880004) |
 | Senior Machine Learning Engineer, Discovery Recommendations | Epic Games | BLANK,BLANK,Multiple Locations Cary, North Carolina, United States | onsite | 2026-07-24 | [Apply](https://epicgames.com/careers/jobs/5973992004?gh_jid=5973992004) |
-| Senior Data Scientist, Finance | Xero | AU: Sydney (45 Clarence St) | hybrid | 2026-07-24 | [Apply](https://jobs.ashbyhq.com/xero/468d2cb4-95ee-462e-951c-cadc4f24d10c/application) |
-| Senior Data Scientist, Finance | Xero | AU: Melbourne: (260 Burwood Rd) | hybrid | 2026-07-24 | [Apply](https://jobs.ashbyhq.com/xero/9bab90d3-fe65-4895-8e60-681558f29b39/application) |
-| Director, Data Analytics & Strategic Solutions | Thermo Fisher Scientific | Carlsbad, California, USA | onsite | 2026-07-24 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Carlsbad-California-USA/Director--Data-Analytics---Strategic-Solutions_R-01352751) |
 | Data Scientist | Leidos | Hampton, VA | onsite | 2026-07-24 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Data-Scientist_R-00187890) |
 | Senior Data Engineer Con II | Allstate | USA - IL (Remote) | remote | 2026-07-24 | [Apply](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Senior-Data-Engineer-Con-II_R30086-1) |
 | AI/Machine Learning Engineer | Equinix | 2 Locations | onsite | 2026-07-24 | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Dallas-Infomart-Office-DAI/AI-Machine-Learning-Engineer_JR-162108-1) |
@@ -233,6 +232,9 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Data Scientist (Classical ML, NLP & LLM/GenAI/Agentic AI) | Gartner | Gurgaon | onsite | 2026-07-24 | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Data-Scientist--Classical-ML--NLP---LLM-GenAI-Agentic-AI-_110911) |
 | Principal Analytics Engineer- Azure data warehouse, ADF/Synapse, T-SQL, data pipeline design | Gartner | Gurgaon | onsite | 2026-07-24 | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Associate-Director--ADF--Azure--SQL--Databricks_105889) |
 | Sr. Data Scientist, Ops Research | McKesson Corporation | USA, TX, Irving | onsite | 2026-07-24 | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-Data-Scientist--Ops-Research_JR0150292) |
+| Senior Data Scientist, Finance | Xero | AU: Sydney (45 Clarence St) | hybrid | 2026-07-24 | [Apply](https://jobs.ashbyhq.com/xero/468d2cb4-95ee-462e-951c-cadc4f24d10c/application) |
+| Senior Data Scientist, Finance | Xero | AU: Melbourne: (260 Burwood Rd) | hybrid | 2026-07-24 | [Apply](https://jobs.ashbyhq.com/xero/9bab90d3-fe65-4895-8e60-681558f29b39/application) |
+| Director, Data Analytics & Strategic Solutions | Thermo Fisher Scientific | Carlsbad, California, USA | onsite | 2026-07-24 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermofisherCareers/job/Carlsbad-California-USA/Director--Data-Analytics---Strategic-Solutions_R-01352751) |
 | Communication Systems Geospatial & RF Data Engineer | Amazon | Redmond, Washington, USA | remote | 2026-07-24 | [Apply](https://account.amazon.jobs/jobs/10483826/apply) |
 | Senior Staff Product Data Analyst | Bill.com | United States United States | remote | 2026-07-23 | [Apply](https://www.bill.com/job?6002940004&gh_jid=6002940004) |
 | Senior AI/ML Engineer | Chime | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA San Francisco, California, United States | remote | 2026-07-23 | [Apply](https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002) |
@@ -250,11 +252,11 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Founding Sr. Data Engineer | Diligent Robotics | Anywhere in the US | remote | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/diligentrobotics/jobs/7734522003) |
 | Data Scientist, North Insights | Cohere | United States | hybrid | 2026-07-23 | [Apply](https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af/application) |
 | Senior Data Scientist - Product Data | Synthesia | London | hybrid | 2026-07-23 | [Apply](https://jobs.ashbyhq.com/synthesia/5ffc5856-abc0-4639-b4a7-a6d81e8f0814/application) |
-| Machine Learning Engineer - ML Agents and Planning | Zoox | Foster City, CA | hybrid | 2026-07-23 | [Apply](https://jobs.lever.co/zoox/d736debf-c361-4a7c-81fd-6c3125ab03c0/apply) |
 | GCP Data Engineer | Equinix | Bangalore Office BLS2 | onsite | 2026-07-23 | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Bangalore-Office-BLS2/Software-Development-Engineer-Staff_JR-160560) |
 | Data Scientist | Leidos | McLean, VA | onsite | 2026-07-23 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Data-Scientist_R-00187862) |
 | Data Analyst | Gartner | 2 Locations | onsite | 2026-07-23 | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Data-Analyst_111040) |
 | Data Scientist | Cardinal Health | IND07 | onsite | 2026-07-23 | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Data-Scientist_20184220) |
+| Machine Learning Engineer - ML Agents and Planning | Zoox | Foster City, CA | hybrid | 2026-07-23 | [Apply](https://jobs.lever.co/zoox/d736debf-c361-4a7c-81fd-6c3125ab03c0/apply) |
 | Business Intelligence Engineer, eCS Data Engineering and Analytics | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-23 | [Apply](https://account.amazon.jobs/jobs/10482170/apply) |
 | Data Eng II (PnD), IT PnD Data Engineering | Amazon | Vancouver, British Columbia, CAN | onsite | 2026-07-23 | [Apply](https://account.amazon.jobs/jobs/10482664/apply) |
 | Applied Machine Learning Engineer, EMEA | Fireworks AI | London, UK London, UK | onsite | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/fireworksai/jobs/4329136009) |
@@ -272,10 +274,6 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Senior AI/ML Engineer | Dragos | United States | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/dragos/jobs/5364876008) |
 | Senior Machine Learning Engineer, Developer Advocacy \| US \| Remote | Grafana Labs | United States (Remote) | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6121755004) |
 | Lead Analytics Engineer | Graphcore | Bristol, UK; Cambridge, UK; London, UK Bristol, UK | onsite | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8518844002) |
-| Data Engineer | Figma | San Francisco, CA • New York, NY • United States | remote | 2026-07-22 | [Apply](https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004) |
-| Data Scientist | Figma | San Francisco, CA • New York, NY • United States | remote | 2026-07-22 | [Apply](https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004) |
-| Data Scientist, Finance | Figma | San Francisco, CA • New York, NY • United States | remote | 2026-07-22 | [Apply](https://boards.greenhouse.io/figma/jobs/6013304004?gh_jid=6013304004) |
-| Data Scientist, Marketing | Figma | San Francisco, CA • New York, NY • United States | onsite | 2026-07-22 | [Apply](https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004) |
 | Senior Full Stack Data Engineer | Comcast | PA - West Chester, 1354 Boot Rd | onsite | 2026-07-22 | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Senior-Full-Stack-Data-Engineer_R438534) |
 | Sr. Data Scientist - Virtual | Comcast | Virtual | onsite | 2026-07-22 | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Virtual/Sr-Data-Scientist---Virtual---Freewheel_R440429) |
 | Vendor Master Data Analyst ll | Equifax | CRI - Heredia | onsite | 2026-07-22 | [Apply](https://equifax.wd5.myworkdayjobs.com/External/job/CRI---Heredia/Vendor-Master-Data-Analyst-ll_J00178128) |
@@ -286,6 +284,10 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Business Intelligence Analyst | Autodesk | Toronto, ON, CAN | onsite | 2026-07-22 | [Apply](https://autodesk.wd1.myworkdayjobs.com/EXT/job/Toronto-ON-CAN/Business-Intelligence-Analyst_26WD99156) |
 | Advanced Technologist (Data Analytics) | Boeing | USA - Seattle, WA | onsite | 2026-07-22 | [Apply](https://boeing.wd1.myworkdayjobs.com/External_Careers/job/USA---Seattle-WA/Advanced-Technologist--Data-Analytics-_JR2026519599-1) |
 | Data Scientist | Leidos | 3325 Fort George G. Meade MD | onsite | 2026-07-22 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00187783-1) |
+| Data Engineer | Figma | San Francisco, CA • New York, NY • United States | remote | 2026-07-22 | [Apply](https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004) |
+| Data Scientist | Figma | San Francisco, CA • New York, NY • United States | remote | 2026-07-22 | [Apply](https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004) |
+| Data Scientist, Finance | Figma | San Francisco, CA • New York, NY • United States | remote | 2026-07-22 | [Apply](https://boards.greenhouse.io/figma/jobs/6013304004?gh_jid=6013304004) |
+| Data Scientist, Marketing | Figma | San Francisco, CA • New York, NY • United States | onsite | 2026-07-22 | [Apply](https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004) |
 | Analytics Engineer, Data Science | DoorDash | Austin, TX; Chicago, IL; New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C. | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7967918) |
 | Sr. Business Intelligence Engineer | DoorDash | New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7905285) |
 | Data Analyst, In-Store | DoorDash | New York, NY; San Francisco, CA; San Jose, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Austin, TX; Chicago, IL | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7990832) |
@@ -302,5 +304,3 @@ Every active data & analytics full-time posting the pipeline has found, unfilter
 | Machine Learning Engineer, Perception | Wing Aviation | Palo Alto, California | hybrid | 2026-07-21 | [Apply](https://wing.com/careers/8604818002?gh_jid=8604818002) |
 | Data Analyst | Modern Health | Remote - US | remote | 2026-07-21 | [Apply](https://job-boards.greenhouse.io/modernhealth/jobs/8550544002) |
 | Data Scientist, Analytics | Discord | San Francisco Bay Area San Francisco, California, United States | onsite | 2026-07-21 | [Apply](https://job-boards.greenhouse.io/discord/jobs/8485797002) |
-| Research Scientist, Cohere Labs | Cohere | London | remote | 2026-07-21 | [Apply](https://jobs.ashbyhq.com/cohere/7ec9eaf4-8cfc-4977-9041-86f73e7ab10b/application) |
-| Sr Staff AI-ML Data Scientist (ADEM) | Palo Alto Networks | Santa Clara, United States of America | onsite | 2026-07-21 | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Sr-Staff-Machine-Learning-Engineer--ADEM-_JR-017568) |

@@ -1,6 +1,6 @@
 # Cybersecurity Full-Time — Matched for Roman
 
-Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 133.
+Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 132.
 
 | Score | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -68,7 +68,6 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 74 | Distinguished Engineer, End-to-End Security Architect | Graphcore | Austin, Texas, United States; Milpitas, California, United States Austin, Texas, United States | remote | 2026-07-08 | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8589876002) |
 | 73 | Enterprise Security Sales Specialist | Datadog | Chicago, Illinois, USA; San Francisco, California, USA Chicago, Illinois, United States | onsite | 2026-07-28 | [Apply](https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428) |
 | 73 | Offensive Security Agent Engineer | OpenAI | Remote - US | remote | 2026-07-22 | [Apply](https://jobs.ashbyhq.com/openai/dd7443fe-a7b8-4794-8dd5-cb7d14c00c64/application) |
-| 73 | SIEM Security Engineer | Ciena | Gurugram | onsite | 2026-07-29 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/SIEM-Security-Engineer_R031342) |
 | 73 | Agent, Critical Incident Response Team - Chicago, IL | DoorDash | Chicago, IL | remote | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8093131) |
 | 73 | Insider Threat Analyst | Coinbase | Remote - USA | remote | 2026-07-14 | [Apply](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336) |
 | 73 | Application Security Engineer | Rubrik | US - Remote | remote | 2026-07-27 | [Apply](https://www.rubrik.com/company/careers/departments/job.7616016?gh_jid=7616016) |
