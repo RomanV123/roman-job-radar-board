@@ -1,6 +1,6 @@
 # Software Engineering Internships — Matched for Roman
 
-Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 29.
+Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 30.
 
 | Score | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -28,8 +28,9 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 66 | SDE II, Amazon Now | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10479939/apply) |
 | 66 | Software Engineer Intern - Enterprise Systems (Fall 2026) | Astranis | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4699071006) |
 | 65 | Software Engineer- Backend Intern (Fall 2026) | Astranis | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
+| 64 | Embedded Software Engineer Intern - Fall 2026 | Redwood Materials | San Francisco, California, United States San Francisco, California, United States | hybrid | 2026-07-29 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) |
 | 64 | Software Dev Engineer (SDE II), EC2 Core / Outposts Console, AWS CX | Amazon | Arlington, Virginia, USA | onsite | 2026-07-20 | [Apply](https://account.amazon.jobs/jobs/10479160/apply) |
-| 63 | Embedded Software Developer, Network/Payload Software Intern (Fall 2026) | Astranis | San Francisco San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4601135006) |
+| 62 | Embedded Software Developer, Network/Payload Software Intern (Fall 2026) | Astranis | San Francisco San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4601135006) |
 | 62 | Software Engineer II, Leo Gravity | Amazon | Redmond, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486723/apply) |
 | 60 | Software Engineer II, Selection Monitoring | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-16 | [Apply](https://account.amazon.jobs/jobs/10475980/apply) |
 | 60 | SDE II, Sales Data Services (SDS) | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10480632/apply) |

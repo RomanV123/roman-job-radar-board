@@ -1,6 +1,6 @@
 # Software Engineering Internships — All Jobs Found
 
-Every active software engineering internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing all 121.
+Every active software engineering internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing all 122.
 
 | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|
@@ -9,8 +9,10 @@ Every active software engineering internships posting the pipeline has found, un
 | Internship: Python Software Engineer (m/f/d) | NXP Semiconductors | Gratkorn | onsite | 2026-07-29 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Python-Software-Engineer--m-f-d-_R-10065627-1) |
 | Software Developer Intern | Leidos | Annapolis Junction, MD | onsite | 2026-07-29 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311) |
 | Application Developer Intern | Leidos | Indianapolis, IN | onsite | 2026-07-29 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) |
+| Embedded Software Engineer Intern - Fall 2026 | Redwood Materials | San Francisco, California, United States San Francisco, California, United States | hybrid | 2026-07-29 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) |
 | Software Engineer Intern - ML Systems | Apptronik | Onsite - Austin, TX Austin, TX | onsite | 2026-07-29 | [Apply](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) |
 | Staff Software Engineer, Proactive Communications | Hinge Health | San Francisco-HQ | hybrid | 2026-07-29 | [Apply](https://jobs.ashbyhq.com/hinge-health/4fba45fc-b27f-4ac8-9eac-2b8ac66c0a58/application) |
+| Sr. Software Engineer, Amazon MSK | Amazon | Seattle, Washington, USA | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10487786/apply) |
 | Senior Systems Engineer | Relativity Space | Long Beach, California Long Beach, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/relativity/jobs/8542002002?gh_jid=8542002002) |
 | Software Engineer II, Leo Gravity | Amazon | Redmond, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486723/apply) |
 | SDE II, EC2 Instance Networking, EC2 Nitro | Amazon | Seattle, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486805/apply) |
@@ -59,7 +61,6 @@ Every active software engineering internships posting the pipeline has found, un
 | Senior Software Developer, AWS WorkSpaces | Amazon | Seattle, Washington, USA | onsite | 2026-07-18 | [Apply](https://account.amazon.jobs/jobs/10478038/apply) |
 | SDE II, Life Sciences Applied AI | Amazon | Seattle, Washington, USA | onsite | 2026-07-17 | [Apply](https://account.amazon.jobs/jobs/10477838/apply) |
 | Software Engineer II, Selection Monitoring | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-16 | [Apply](https://account.amazon.jobs/jobs/10475980/apply) |
-| SDE II, Ship With Amazon, Ship With Amazon | Amazon | Gurugram, Haryana, IND | onsite | 2026-07-16 | [Apply](https://account.amazon.jobs/jobs/10476917/apply) |
 | Software Engineer I, Mission Software | VAST Data | Long Beach, California, United States Long Beach, California, United States | onsite | 2026-07-15 | [Apply](https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006) |
 | Sr. Software Engineer - ML and Distributed Systems, Amazon Personalize | Amazon | Mountain View, California, USA | onsite | 2026-07-15 | [Apply](https://account.amazon.jobs/jobs/10475824/apply) |
 | Software Engineer Intern (Fall 2026) - Austin, TX | Cloudflare | In-Office Austin, TX, United States | remote | 2026-07-14 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
