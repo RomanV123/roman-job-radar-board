@@ -1,6 +1,6 @@
 # Software Engineering Internships — Matched for Roman
 
-Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 28.
+Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 29.
 
 | Score | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -23,6 +23,7 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 69 | SDE II, Amazon Connect - Proactive Engagement | Amazon | Seattle, Washington, USA | onsite | 2026-07-27 | [Apply](https://account.amazon.jobs/jobs/10485076/apply) |
 | 69 | SDE II, Life Sciences Applied AI | Amazon | Seattle, Washington, USA | onsite | 2026-07-17 | [Apply](https://account.amazon.jobs/jobs/10477838/apply) |
 | 69 | SDE II, Perception and SLAM, Autonomous Mobility | Amazon | North Reading, Massachusetts, USA | onsite | 2026-07-22 | [Apply](https://account.amazon.jobs/jobs/10481481/apply) |
+| 67 | Internship: Python Software Engineer (m/f/d) | NXP Semiconductors | Gratkorn | onsite | 2026-07-29 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Python-Software-Engineer--m-f-d-_R-10065627-1) |
 | 66 | Software Engineer II, AWS Continuum for code vulnerabilities | Amazon | Bellevue, Washington, USA | onsite | 2026-07-24 | [Apply](https://account.amazon.jobs/jobs/10483913/apply) |
 | 66 | SDE II, Amazon Now | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10479939/apply) |
 | 66 | Software Engineer Intern - Enterprise Systems (Fall 2026) | Astranis | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4699071006) |
