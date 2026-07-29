@@ -1,13 +1,13 @@
 # Cybersecurity Full-Time — Matched for Roman
 
-Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 136.
+Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 133.
 
 | Score | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 91 | Security Engineer | Everlaw | Oakland, California, United States Oakland, California, United States | remote | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/everlaw/jobs/4679241006) |
 | 89 | Enterprise Security Engineer | Applied Materials | Sunnyvale | onsite | 2026-07-09 | [Apply](https://jobs.ashbyhq.com/applied/e26974e6-a0aa-4143-90c1-22396bcc38dd/application) |
 | 88 | Security Data Engineer | Anduril | Ashville, Ohio, United States; Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Remote; Seattle, Washington, United States; Washington, District of Columbia, United States Costa Mesa, California, United States | remote | 2026-07-29 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007) |
-| 88 | Software Engineer - Cloud Security | Illumio | Sunnyvale, California - HQ | onsite | 2026-07-13 | [Apply](https://jobs.ashbyhq.com/illumio/24023d23-b5ee-4caa-b840-561504ef366e/application) |
+| 87 | Software Engineer - Cloud Security | Illumio | Sunnyvale, California - HQ | onsite | 2026-07-13 | [Apply](https://jobs.ashbyhq.com/illumio/24023d23-b5ee-4caa-b840-561504ef366e/application) |
 | 87 | Information Systems Security Officer, AD&S | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5127232007?gh_jid=5127232007) |
 | 87 | Information Systems Security Officer | Anduril | Irvine, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4993772007?gh_jid=4993772007) |
 | 86 | Product Security Engineer | Chime | San Francisco, CA, USA San Francisco, California, United States | remote | 2026-07-22 | [Apply](https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002) |
@@ -20,14 +20,13 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 84 | Infrastructure Security Engineer, Public Sector | Scale AI | New York, NY; St. Louis, MO; Washington, DC Washington, District of Columbia, United States | onsite | 2026-07-24 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4718258005) |
 | 84 | Product Security Engineer II | Affirm | Remote US | remote | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7796534003) |
 | 84 | Development, Security, and Operations Engineer | Virta Health | Remote | remote | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/virtahealth/fa511be9-9186-44ef-9b56-ef39a33e8ae4/application) |
-| 83 | Product Security Engineer, Programs | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5042718007?gh_jid=5042718007) |
+| 83 | Product Security Engineer, Programs | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5041620007?gh_jid=5041620007) |
 | 83 | Security Sales Engineer | Datadog | Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote California, United States | remote | 2026-07-28 | [Apply](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877) |
 | 83 | Systems Security Engineer Anti-Tamper | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-29 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5098387007?gh_jid=5098387007) |
 | 83 | Product Security Engineer, Programs | Anduril | Quincy, Massachusetts, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5183808007?gh_jid=5183808007) |
 | 83 | Product Security Engineer, Programs | Anduril | Washington, District of Columbia, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5042721007?gh_jid=5042721007) |
 | 82 | Systems Security Engineer, Anti-Tamper | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5044386007?gh_jid=5044386007) |
 | 82 | Product Security Engineer | Modern Health | Remote - US | remote | 2026-07-21 | [Apply](https://job-boards.greenhouse.io/modernhealth/jobs/8451922002) |
-| 82 | System Security Engineer, Program Protection | Anduril | Costa Mesa, California, United States Costa Mesa, California, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4978917007?gh_jid=4978917007) |
 | 82 | Cloud Security Engineer | Braze | São Paulo São Paulo | hybrid | 2026-07-21 | [Apply](https://boards.greenhouse.io/braze/jobs/8075825?gh_jid=8075825) |
 | 82 | Microsoft Security Engineer- Remote (Anywhere in the U.S.) | GuidePoint Security | Remote | remote | 2026-07-21 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6115602004?gh_jid=6115602004) |
 | 81 | Network Dev Engineer II(Security), Corporate Network Engineering | Amazon | Bengaluru, Karnataka, IND | remote | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486789/apply) |
@@ -51,11 +50,12 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 77 | Product & Application Security Engineer | Veeam Software | San Francisco Bay, CA, USA | onsite | 2026-07-24 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744664101) |
 | 77 | Distinguished Engineer, End-to-End Security Architect | Graphcore | Austin, Texas, United States; Milpitas, California, United States Austin, Texas, United States | remote | 2026-07-29 | [Apply](https://job-boards.greenhouse.io/graphcore/jobs/8589876002) |
 | 77 | Threat Response Engineer (TRE) - Early Shift (6am-2pm MT) | Zscaler | USA - Update Location Remote - USA | remote | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5177384007) |
-| 76 | Threat Intelligence Software Engineer, Cloudforce One | Cloudflare | Hybrid Austin, TX, United States | hybrid | 2026-07-08 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174) |
+| 76 | Security Engineer II, AWS Security, Hardware Supply Chain Security | Amazon | Austin, Texas, USA | remote | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10487607/apply) |
 | 76 | Security Engineer, Insider Threat | DoorDash | United States - Remote | remote | 2026-07-06 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7898736) |
+| 76 | Threat Intelligence Software Engineer, Cloudforce One | Cloudflare | Hybrid Austin, TX, United States | hybrid | 2026-07-08 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174) |
 | 76 | Data Scientist, Security Issue Management | Amazon | Seattle, Washington, USA | onsite | 2026-07-20 | [Apply](https://account.amazon.jobs/jobs/10478998/apply) |
-| 76 | Threat Response Engineer (TRE) - Day Shift (10am-6pm MT) | Zscaler | USA - Update Location Remote - USA | remote | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5177404007) |
 | 75 | Incident Response Specialist, Amazon Corporate Security | Amazon | Arlington, Virginia, USA | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10487263/apply) |
+| 75 | Threat Response Engineer (TRE) - Day Shift (10am-6pm MT) | Zscaler | USA - Update Location Remote - USA | remote | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5177404007) |
 | 75 | Product Security Engineer, Public Sector | Scale AI | New York, NY; St. Louis, MO; Washington, DC San Francisco, California, United States | onsite | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4651559005) |
 | 75 | Product Security Engineer | Astranis | San Francisco San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4667335006) |
 | 75 | IT Network Security Analyst | Jabil | St. Petersburg/Tampa, FL | onsite | 2026-07-21 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/IT-Network-Security-Analyst_J2457728-1) |
@@ -70,12 +70,11 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 74 | Global Threat Intelligence Leader | Axon Enterprise | Scottsdale, Arizona, United States Scottsdale, Arizona, United States | onsite | 2026-07-25 | [Apply](https://job-boards.greenhouse.io/axon/jobs/7803281003) |
 | 73 | Offensive Security Agent Engineer | OpenAI | Remote - US | remote | 2026-07-22 | [Apply](https://jobs.ashbyhq.com/openai/dd7443fe-a7b8-4794-8dd5-cb7d14c00c64/application) |
 | 73 | Enterprise Security Sales Specialist | Datadog | Chicago, Illinois, USA; San Francisco, California, USA Chicago, Illinois, United States | onsite | 2026-07-28 | [Apply](https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428) |
-| 73 | SIEM Security Engineer | Ciena | Gurugram | onsite | 2026-07-29 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/SIEM-Security-Engineer_R031342) |
 | 73 | Agent, Critical Incident Response Team - Chicago, IL | DoorDash | Chicago, IL | remote | 2026-07-28 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8093131) |
 | 73 | Insider Threat Analyst | Coinbase | Remote - USA | remote | 2026-07-14 | [Apply](https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336) |
 | 73 | Application Security Engineer | Rubrik | US - Remote | remote | 2026-07-27 | [Apply](https://www.rubrik.com/company/careers/departments/job.7616016?gh_jid=7616016) |
-| 73 | Product Cybersecurity Engineer | May Mobility | Remote, USA Ann Arbor, Michigan, United States | remote | 2026-07-13 | [Apply](https://job-boards.greenhouse.io/maymobility/jobs/8497183002) |
 | 73 | Product Security Engineer | Vercel | Hybrid - San Francisco, New York City, London, Berlin Berlin, Berlin, Germany | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6102343004) |
+| 72 | Product Cybersecurity Engineer | May Mobility | Remote, USA Ann Arbor, Michigan, United States | remote | 2026-07-13 | [Apply](https://job-boards.greenhouse.io/maymobility/jobs/8497183002) |
 | 72 | Splunk Security Engineer | Leidos | Suitland, MD | onsite | 2026-07-22 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Splunk-Security-Engineer_R-00187796) |
 | 72 | Cyber-Security Operations Analyst III, Product AppSec | Veeam Software | Remote, United States | remote | 2026-07-24 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4753867101) |
 | 72 | Vulnerability Management Analyst | Leidos | Camp Springs, MD | onsite | 2026-07-13 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Camp-Springs-MD/Vulnerability-Management-Analyst_R-00187171) |
@@ -84,21 +83,19 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 72 | Physical Security Specialist, SPEAR EVALUATIONS EMEA | Amazon | DEU | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10487261/apply) |
 | 72 | Security Consultant, Professional Services | Amazon | Tokyo, JPN | remote | 2026-07-23 | [Apply](https://account.amazon.jobs/jobs/10482454/apply) |
 | 71 | Technical CBRN-E  Threat Investigator | Anthropic | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Washington, DC | remote | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5066997008) |
-| 71 | Security Analyst - Governance, Risk, and Compliance (West) | LaunchDarkly | Remote - US Remote - US | remote | 2026-07-16 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7753776003) |
 | 71 | Software Engineer - Platform Security | Neo4j | London | hybrid | 2026-07-03 | [Apply](https://boards.greenhouse.io/neo4j/jobs/4687941006?gh_jid=4687941006) |
 | 71 | Software Engineer - Platform Security | Neo4j | Malmö | hybrid | 2026-07-03 | [Apply](https://boards.greenhouse.io/neo4j/jobs/4687943006?gh_jid=4687943006) |
+| 71 | Security Analyst - Governance, Risk, and Compliance (West) | LaunchDarkly | Remote - US Remote - US | remote | 2026-07-16 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7753776003) |
 | 71 | Physical Security Specialist, PS SPEAR | Amazon | Maharashtra, IND | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10480035/apply) |
 | 71 | Security Engineer, Public Sector | Scale AI | New York, NY; St. Louis, MO; Washington, DC Washington, District of Columbia, United States | onsite | 2026-07-24 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4718314005) |
-| 71 | Associate, Vulnerability Assessment | Coalfire | United States | remote | 2026-07-20 | [Apply](https://jobs.lever.co/coalfire/98c59304-10da-4e75-a4c9-e705b53b235f/apply) |
 | 71 | Colo Physical Security Architect, Data Center Engineering, Colocation Regional Engineering | Amazon | Dublin, IRL | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10485456/apply) |
+| 71 | Associate, Vulnerability Assessment | Coalfire | United States | remote | 2026-07-20 | [Apply](https://jobs.lever.co/coalfire/98c59304-10da-4e75-a4c9-e705b53b235f/apply) |
 | 71 | Security Engineer 2 - Cyber Threat Intelligence | Datadog | New York, New York, USA New York, NY, United States | hybrid | 2026-07-28 | [Apply](https://careers.datadoghq.com/detail/7982345/?gh_jid=7982345) |
 | 70 | Delivery Consultant - Security, Risk and Compliance, Professional Services | Amazon | Amsterdam, North Holland, NLD | onsite | 2026-07-23 | [Apply](https://account.amazon.jobs/jobs/10482299/apply) |
-| 70 | Security Architect (SecOps) - Northeast region (Remote) | GuidePoint Security | Remote | remote | 2026-07-11 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6114223004?gh_jid=6114223004) |
 | 70 | Delivery Consultant - Security, Risk, and Compliance, Professional Services | Amazon | Riyadh, SAU | onsite | 2026-07-23 | [Apply](https://account.amazon.jobs/jobs/10482585/apply) |
+| 70 | Security Architect (SecOps) - Northeast region (Remote) | GuidePoint Security | Remote | remote | 2026-07-11 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6114223004?gh_jid=6114223004) |
 | 70 | Security Engineer, Detection & Response | Scale AI | New York, NY; San Francisco, CA; Seattle, WA; Washington, DC New York, New York, United States | onsite | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4684073005) |
-| 70 | Incident Response Analyst - SkillBridge (Remote) | CrowdStrike | USA - Remote | remote | 2026-07-28 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/CrowdstrikeCareers/job/USA---Remote/Incident-Response-Analyst---SkillBridge--Remote-_R22012) |
 | 70 | Security Engineer, Cloud | Vercel | Remote - United States San Francisco, California, United States | remote | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6102335004) |
-| 70 | Delivery Consultant - Security, Risk and Compliance, Professional Services, Professional Services | Amazon | Zurich, Zurich, CHE | onsite | 2026-07-29 | [Apply](https://account.amazon.jobs/jobs/10487046/apply) |
 | 70 | Third Party Risk Analyst, Security GRC | Anthropic | Remote-Friendly (Travel Required) \| San Francisco, CA | onsite | 2026-07-22 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5368041008) |
 | 70 | Security Specialist | Anduril | Ashville, Ohio, United States Ashville, Ohio, United States | onsite | 2026-07-29 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5074043007?gh_jid=5074043007) |
 | 69 | Firewall Network Security Engineer | Intel | US, Arizona, Phoenix | onsite | 2026-06-29 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Firewall-Network-Security-Engineer_JR0284032-1) |
@@ -111,13 +108,13 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 69 | GRC Engineer | Verkada | San Mateo, CA United States San Mateo, California, United States | onsite | 2026-07-16 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5147165007) |
 | 69 | Mortgage Compliance Analyst | SoFi | Frisco, TX | remote | 2026-07-28 | [Apply](https://sofi.com/careers/job/7816100003?gh_jid=7816100003) |
 | 68 | Corporate Security Incident Response Specialist, Business Assurance Center, Amazon Corporate Security | Amazon | Seattle, Washington, USA | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10480900/apply) |
-| 67 | Security Engineer, Application Security | Robinhood | Bellevue, WA; Menlo Park, CA | onsite | 2026-07-15 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |
 | 67 | Technical Enablement Architect, Network Security & SASE | Palo Alto Networks | Office - USA - CA - Headquarters | onsite | 2026-06-29 | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Technical-Enablement-Architect_JR-017228) |
+| 67 | Security Engineer, Application Security | Robinhood | Bellevue, WA; Menlo Park, CA | onsite | 2026-07-15 | [Apply](https://boards.greenhouse.io/robinhood/jobs/7918258?t=gh_src=&gh_jid=7918258) |
 | 67 | Information Security SIEM Engineer | NXP Semiconductors | Bangalore | onsite | 2026-06-29 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Bangalore/SOC-L3-Analyst_R-10061881) |
-| 67 | Platform Security Engineer, OpenBMC | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5271346008) |
-| 67 | Development Engineer in Test (SDET) - Network Security (Apps) | Corelight | North America | onsite | 2026-07-21 | [Apply](https://boards.greenhouse.io/corelight/jobs/8049112?gh_jid=8049112) |
 | 67 | Vulnerability Management Professional | Marvell Technology | US-TX - Austin | onsite | 2026-06-29 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US-TX---Austin/Vulnerability-Management-Professional_2601540) |
+| 67 | Platform Security Engineer, OpenBMC | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5271346008) |
 | 67 | Associate Compliance Analyst (R5432) | Shield AI | United States | onsite | 2026-07-15 | [Apply](https://jobs.lever.co/shieldai/d3f3a93f-674b-4326-91d7-05840a049719/apply) |
+| 66 | Development Engineer in Test (SDET) - Network Security (Apps) | Corelight | North America | onsite | 2026-07-21 | [Apply](https://boards.greenhouse.io/corelight/jobs/8049112?gh_jid=8049112) |
 | 66 | Research Engineer / Scientist, Frontier Red Team (Cyber) | Anthropic | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5076477008) |
 | 66 | Platform Security Engineering, Operating Systems | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA San Francisco, California, United States | onsite | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5290426008) |
 | 66 | Incident Response Consultant (Remote, JPN) | CrowdStrike | 2 Locations | onsite | 2026-07-29 | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/CrowdstrikeCareers/job/Japan---Remote-Tokyo/Incident-Response-Principal-Consultant------Remote--JPN-_R27605) |

@@ -1,6 +1,6 @@
 # Software Engineering Internships — All Jobs Found
 
-Every active software engineering internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing all 120.
+Every active software engineering internships posting the pipeline has found, unfiltered by resume fit, most recently posted first. Showing all 121.
 
 | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|
@@ -8,6 +8,8 @@ Every active software engineering internships posting the pipeline has found, un
 | AI Software Engineering Intern | Intel | US, Arizona, Phoenix | onsite | 2026-07-29 | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
 | Internship: Python Software Engineer (m/f/d) | NXP Semiconductors | Gratkorn | onsite | 2026-07-29 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Python-Software-Engineer--m-f-d-_R-10065627-1) |
 | Software Developer Intern | Leidos | Annapolis Junction, MD | onsite | 2026-07-29 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311) |
+| Application Developer Intern | Leidos | Indianapolis, IN | onsite | 2026-07-29 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) |
+| Software Engineer Intern - ML Systems | Apptronik | Onsite - Austin, TX Austin, TX | onsite | 2026-07-29 | [Apply](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) |
 | Staff Software Engineer, Proactive Communications | Hinge Health | San Francisco-HQ | hybrid | 2026-07-29 | [Apply](https://jobs.ashbyhq.com/hinge-health/4fba45fc-b27f-4ac8-9eac-2b8ac66c0a58/application) |
 | Senior Systems Engineer | Relativity Space | Long Beach, California Long Beach, California, United States | onsite | 2026-07-28 | [Apply](https://boards.greenhouse.io/relativity/jobs/8542002002?gh_jid=8542002002) |
 | Software Engineer II, Leo Gravity | Amazon | Redmond, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486723/apply) |
@@ -15,13 +17,12 @@ Every active software engineering internships posting the pipeline has found, un
 | Software Engineer, ECS | Amazon | Seattle, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486016/apply) |
 | Senior Software Developer, AWS DevOps Agent | Amazon | Seattle, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486659/apply) |
 | Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services (AFT Rodeo) | Amazon | Bellevue, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486128/apply) |
+| Software Engineering Intern (4 Months) | Ciena | Ottawa | onsite | 2026-07-27 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) |
+| Internship: Automotive Customer Application Software Engineer (m/f/d) | NXP Semiconductors | Gratkorn | onsite | 2026-07-27 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Automotive-Customer-Application-Software-Engineer--m-f-d-_R-10064842) |
 | 2026 Early Career Software Engineer | Anduril | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States Atlanta, Georgia, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) |
 | 2027 Software Engineer Intern | Anduril | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States Atlanta, Georgia, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | Senior Robotics Systems Engineer | Pronto AI | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8622961002) |
 | Robotics Systems Engineer | Pronto AI | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/pronto/jobs/8581017002) |
-| Software Engineering Intern (4 Months) | Ciena | Ottawa | onsite | 2026-07-27 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) |
-| Internship: Automotive Customer Application Software Engineer (m/f/d) | NXP Semiconductors | Gratkorn | onsite | 2026-07-27 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Automotive-Customer-Application-Software-Engineer--m-f-d-_R-10064842) |
-| Software Engineer Intern - ML Systems | Apptronik | Onsite - Austin, TX Austin, TX | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) |
 | SDE II, Amazon Connect - Proactive Engagement | Amazon | Seattle, Washington, USA | onsite | 2026-07-27 | [Apply](https://account.amazon.jobs/jobs/10485076/apply) |
 | Senior SDE, Last Mile Delivery | Amazon | Bellevue, Washington, USA | onsite | 2026-07-27 | [Apply](https://account.amazon.jobs/jobs/10484963/apply) |
 | Senior Software Developer - Amazon Robotics , Autonomous Mobility | Amazon | North Reading, Massachusetts, USA | onsite | 2026-07-27 | [Apply](https://account.amazon.jobs/jobs/10485271/apply) |
@@ -48,9 +49,9 @@ Every active software engineering internships posting the pipeline has found, un
 | Senior Software Engineer Agentic AI, Amazon's Talent Solution’s Core Science and Engineering | Amazon | Bellevue, Washington, USA | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10480037/apply) |
 | Frontend Engineer, Kiro | Amazon | Portland, Oregon, USA | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10480789/apply) |
 | SDE II, Amazon Now | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10479939/apply) |
+| Software Engineer and Tools Developer Intern (Fall 2026) | Ciena | Ottawa | onsite | 2026-07-20 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) |
 | Embedded Software Developer, Network/Payload Software Intern (Fall 2026) | Astranis | San Francisco San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4601135006) |
 | Software Engineer- Backend Intern (Fall 2026) | Astranis | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
-| Software Engineer and Tools Developer Intern (Fall 2026) | Ciena | Ottawa | onsite | 2026-07-20 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) |
 | 2026 Australia Software Engineering Internship | The Trade Desk | Sydney Sydney | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5033765007) |
 | 2027 North America Software Engineering Internship | The Trade Desk | Bellevue; Boulder; Denver; Irvine; New York; Seattle Bellevue | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | Software Engineer, Amazon Photos | Amazon | Seattle, Washington, USA | onsite | 2026-07-20 | [Apply](https://account.amazon.jobs/jobs/10479468/apply) |

@@ -5,7 +5,7 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | Score | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 84 | Software Engineer I, Mission Software | VAST Data | Long Beach, California, United States Long Beach, California, United States | onsite | 2026-07-15 | [Apply](https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006) |
-| 81 | Software Engineer Intern - ML Systems | Apptronik | Onsite - Austin, TX Austin, TX | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) |
+| 81 | Software Engineer Intern - ML Systems | Apptronik | Onsite - Austin, TX Austin, TX | onsite | 2026-07-29 | [Apply](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) |
 | 79 | Software Engineer Intern (Fall 2026) - Austin, TX | Cloudflare | In-Office Austin, TX, United States | remote | 2026-07-14 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | 77 | Software Engineer I - Device Control | SimpliSafe | Boston, MA Boston, MA, United States | hybrid | 2026-07-07 | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8049515) |
 | 76 | EFA Network Software Engineer I, Annapurna Labs | Amazon | Seattle, Washington, USA | onsite | 2026-07-22 | [Apply](https://account.amazon.jobs/jobs/10481932/apply) |
