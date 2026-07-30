@@ -1,6 +1,6 @@
 # Software Engineering Internships — Matched for Roman
 
-Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 30.
+Jobs scored at or above 60 against Roman's resume, highest score first. Showing all 28.
 
 | Score | Title | Company | Location | Workplace | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -18,12 +18,12 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 71 | Software Engineer, Graviton Software, Annapurna Labs | Amazon | Austin, Texas, USA | onsite | 2026-07-24 | [Apply](https://account.amazon.jobs/jobs/10483895/apply) |
 | 71 | Software Developer Engineer, Amazon WorkSpaces Core Managed Instances | Amazon | Seattle, Washington, USA | onsite | 2026-07-27 | [Apply](https://account.amazon.jobs/jobs/10484211/apply) |
 | 71 | 2027 Software Engineer Intern | Anduril | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States Atlanta, Georgia, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
-| 71 | Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services (AFT Rodeo) | Amazon | Bellevue, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486128/apply) |
+| 70 | Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services (AFT Rodeo) | Amazon | Bellevue, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486128/apply) |
 | 70 | 2026 Early Career Software Engineer | Anduril | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States Atlanta, Georgia, United States | onsite | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) |
 | 69 | SDE II, Amazon Connect - Proactive Engagement | Amazon | Seattle, Washington, USA | onsite | 2026-07-27 | [Apply](https://account.amazon.jobs/jobs/10485076/apply) |
 | 69 | SDE II, Life Sciences Applied AI | Amazon | Seattle, Washington, USA | onsite | 2026-07-17 | [Apply](https://account.amazon.jobs/jobs/10477838/apply) |
 | 69 | SDE II, Perception and SLAM, Autonomous Mobility | Amazon | North Reading, Massachusetts, USA | onsite | 2026-07-22 | [Apply](https://account.amazon.jobs/jobs/10481481/apply) |
-| 67 | Internship: Python Software Engineer (m/f/d) | NXP Semiconductors | Gratkorn | onsite | 2026-07-29 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Python-Software-Engineer--m-f-d-_R-10065627-1) |
+| 67 | Internship: Python Software Engineer (m/f/d) | NXP Semiconductors | Gratkorn | onsite | 2026-07-30 | [Apply](https://nxp.wd3.myworkdayjobs.com/Careers/job/Gratkorn/Internship--Python-Software-Engineer--m-f-d-_R-10065627-1) |
 | 66 | Software Engineer II, AWS Continuum for code vulnerabilities | Amazon | Bellevue, Washington, USA | onsite | 2026-07-24 | [Apply](https://account.amazon.jobs/jobs/10483913/apply) |
 | 66 | SDE II, Amazon Now | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10479939/apply) |
 | 66 | Software Engineer Intern - Enterprise Systems (Fall 2026) | Astranis | San Francisco, CA San Francisco, California, United States | onsite | 2026-07-23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4699071006) |
@@ -32,5 +32,3 @@ Jobs scored at or above 60 against Roman's resume, highest score first. Showing 
 | 64 | Software Dev Engineer (SDE II), EC2 Core / Outposts Console, AWS CX | Amazon | Arlington, Virginia, USA | onsite | 2026-07-20 | [Apply](https://account.amazon.jobs/jobs/10479160/apply) |
 | 62 | Embedded Software Developer, Network/Payload Software Intern (Fall 2026) | Astranis | San Francisco San Francisco, California, United States | onsite | 2026-07-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4601135006) |
 | 62 | Software Engineer II, Leo Gravity | Amazon | Redmond, Washington, USA | onsite | 2026-07-28 | [Apply](https://account.amazon.jobs/jobs/10486723/apply) |
-| 60 | Software Engineer II, Selection Monitoring | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-16 | [Apply](https://account.amazon.jobs/jobs/10475980/apply) |
-| 60 | SDE II, Sales Data Services (SDS) | Amazon | Bengaluru, Karnataka, IND | onsite | 2026-07-21 | [Apply](https://account.amazon.jobs/jobs/10480632/apply) |
